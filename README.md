@@ -1,8 +1,9 @@
 ### Greetings! 👋 I am K'trina Apodaca. 
 
-![age](https://img.shields.io/badge/age-25-purple)
+![age](https://img.shields.io/badge/age-25-white)
 ![focus](https://img.shields.io/badge/focus-front/backend-pink)
 ![living](https://img.shields.io/badge/living-colorado-white)
+![Profile Views](https://komarev.com/ghpvc/?username=jeferson0993&color=pink)
 
 <br />
 
@@ -12,7 +13,7 @@
  [![gitlab](https://user-images.githubusercontent.com/25087769/87174063-54894800-c2df-11ea-9620-b2fbf36c3e34.png)](https://gitlab.com/kapodaca) &nbsp;&nbsp;
  [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:ktrinaapodaca@yahoo.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kapodaca0403&show_icons=true&hide_border=pink">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kapodaca0403&show_icons=true&hide_border=true">
 
 ## 💬 About
 
