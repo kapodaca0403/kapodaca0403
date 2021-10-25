@@ -3,7 +3,7 @@
 ![age](https://img.shields.io/badge/age-25-white)
 ![focus](https://img.shields.io/badge/focus-front/backend-pink)
 ![living](https://img.shields.io/badge/living-colorado-white)
-![Profile Views](https://komarev.com/ghpvc/?username=jeferson0993&color=pink)
+![Profile Views](https://komarev.com/ghpvc/?username=kapodaca0403&color=pink)
 
 <br />
 
