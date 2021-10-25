@@ -12,7 +12,7 @@
  [![gitlab](https://user-images.githubusercontent.com/25087769/87174063-54894800-c2df-11ea-9620-b2fbf36c3e34.png)](https://gitlab.com/kapodaca) &nbsp;&nbsp;
  [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:ktrinaapodaca@yahoo.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kapodaca0403&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kapodaca0403&show_icons=true&hide_border=pink">
 
 ## 💬 About
 
