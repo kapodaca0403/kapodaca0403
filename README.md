@@ -11,7 +11,7 @@
 
 <br />
 
-
+## Call me, beep me, if you wanna reach me
  [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/ktrina-apodaca) &nbsp;&nbsp;
  [![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://github.com/kapodaca0403) &nbsp;&nbsp;
  [![gitlab](https://user-images.githubusercontent.com/25087769/87174063-54894800-c2df-11ea-9620-b2fbf36c3e34.png)](https://gitlab.com/kapodaca) &nbsp;&nbsp;
@@ -23,6 +23,7 @@
 ## 💬 About
  My name is K'trina Apodaca. I have a background in fraud and decided to add a little coding into the mix.  I am currently working on a site for pen-pals. A little Something I wanted to work on after bootcamp! And I am more than open to collab so, please feel free to reach out!
 - Fun fact: I am an anime connoisseur, haha. If you have any good manga/animes recommendations let me know!!
+![Portfolio](https://katerz-reactport.herokuapp.com)
  
 ## Learned: 
 .JS .JQuery .nodeJS .expressJs .react .mongo .mysql .git
