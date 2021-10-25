@@ -3,6 +3,7 @@
 ![age](https://img.shields.io/badge/age-25-pink)
 ![focus](https://img.shields.io/badge/focus-front/backend-pink)
 ![living](https://img.shields.io/badge/living-colorado-pink)
+![pronouns](https://img.shields.io/badge/pronouns-she/they-pink)
 ![Profile Views](https://komarev.com/ghpvc/?username=kapodaca0403&color=FFC0CB)
 
 <br />
