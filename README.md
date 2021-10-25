@@ -1,3 +1,6 @@
+![1183560](https://user-images.githubusercontent.com/87509827/138684653-41f5c059-d434-4f85-9620-ec13eebbe181.jpg)
+
+
 ### Greetings! 👋 I am K'trina Apodaca. 
 
 ![age](https://img.shields.io/badge/age-25-pink)
@@ -14,7 +17,7 @@
  [![gitlab](https://user-images.githubusercontent.com/25087769/87174063-54894800-c2df-11ea-9620-b2fbf36c3e34.png)](https://gitlab.com/kapodaca) &nbsp;&nbsp;
  [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:ktrinaapodaca@yahoo.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kapodaca0403&theme=discord_old_blurple&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kapodaca0403&theme=omni&show_icons=true">
 
 
 ## 💬 About
