@@ -27,7 +27,7 @@
 ## Portfolio
 https://katerz-reactport.herokuapp.com
  
-## Learned: 
+## Learned
 JS JQuery nodeJS expressJs react mongo mysql 
 
 <!--
