@@ -25,11 +25,10 @@
 - Fun fact: I am an anime connoisseur, haha. If you have any good manga/animes recommendations let me know!!
 
 
-![Portfolio](https://img.shields.io/badge/age-https://katerz-reactport.herokuapp.com)
+![Portfolio](https://katerz-reactport.herokuapp.com)
  
 ## Learned: 
-.JS .JQuery .nodeJS .expressJs .react .mongo .mysql .git
-
+JS JQuery nodeJS expressJs react mongo mysql 
 
 <!--
 **kapodaca0403/kapodaca0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
