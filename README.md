@@ -1,15 +1,16 @@
 ### Greetings! 👋 I am K'trina Apodaca. 
 
 ![age](https://img.shields.io/badge/age-25-purple)
-![focus](https://img.shields.io/badge/focus-backend-pink)
+![focus](https://img.shields.io/badge/focus-front/backend-pink)
 ![living](https://img.shields.io/badge/living-colorado-white)
 
 <br />
 
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktrinaapodaca@yahoo.com)](mailto:ktrinaapodaca@yahoo.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kapodaca0403](https://github.com/kapodaca0403)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kapodaca0403)
+ [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/ktrina-apodaca) &nbsp;&nbsp;
+ [![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://github.com/kapodaca0403) &nbsp;&nbsp;
+ [![gitlab](https://user-images.githubusercontent.com/25087769/87174063-54894800-c2df-11ea-9620-b2fbf36c3e34.png)](https://gitlab.com/kapodaca) &nbsp;&nbsp;
+ [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:ktrinaapodaca@yahoo.com)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kapodaca0403&show_icons=true&hide_border=true">
 
