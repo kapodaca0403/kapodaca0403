@@ -25,7 +25,7 @@
 - Fun fact: I am an anime connoisseur, haha. If you have any good manga/animes recommendations let me know!!
 
 ## Portfolio
-![Portfolio]https://katerz-reactport.herokuapp.com
+https://katerz-reactport.herokuapp.com
  
 ## Learned: 
 JS JQuery nodeJS expressJs react mongo mysql 
