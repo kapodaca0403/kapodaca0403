@@ -21,7 +21,7 @@
 
 
 ## 💬 About
- My name is K'trina Apodaca. I have a background in fraud and decided to add a little coding into the mix.  I am currently working on a site for pen-pals. A little Something I wanted to work on after bootcamp! And I am more than open to collab so, please feel free to reach out!
+ My name is K'trina Apodaca. I have a background in fraud and decided to add a little coding into the mix.  I am currently working on a event planner website for someone. A little Something I wanted to work on after bootcamp! And I am more than open to collab so, please feel free to reach out!
 - Fun fact: I am an anime connoisseur, haha. If you have any good manga/anime recommendations let me know!!
 
 ## Portfolio
