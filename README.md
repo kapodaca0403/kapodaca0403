@@ -3,7 +3,7 @@
 
 ### Greetings! 👋 
 
-![age](https://img.shields.io/badge/age-25-pink)
+![age](https://img.shields.io/badge/age-27-pink)
 ![focus](https://img.shields.io/badge/focus-front/backend-pink)
 ![living](https://img.shields.io/badge/living-colorado-pink)
 ![pronouns](https://img.shields.io/badge/pronouns-she/they-pink)
